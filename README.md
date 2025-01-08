@@ -2,6 +2,8 @@
 Effortlessly manage your library's collection and streamline book tracking with the Library Management System.
 A simple yet powerful Python-based project designed to manage book collections dynamically. Perfect for small libraries, personal collections, or educational purposes.
 
+---
+
 ##⚡ Quick Overview
 Add Books: Seamlessly add new books to your collection.
 View Available Books: List all the books currently in the library.
@@ -11,14 +13,19 @@ Custom Library Names: Create unique libraries tailored to your needs.
 
 ## 🌟 Features
 1 Dynamic Library Creation
+
 2 Each library has a unique name, allowing you to manage multiple libraries effortlessly.
+
 3 Book Management
   Add new books to the library with a single command.
   View the complete list of available books.
+
 3 Error Handling
   Built-in error handling ensures a smooth and robust user experience.
+
 4 Interactive and Intuitive
   A conversational command-line interface (CLI) that makes managing a library as easy as having a chat.
+
 5 Beginner-Friendly Codebase
   The Python code is simple and well-documented, making it an excellent project for learning or expanding your skills.
 
@@ -53,7 +60,7 @@ Installation
   
   2 Run the Script:
     ```bash
-    python library_management.py
+      python library_management.py
 
 ## 🧰 Usage
 Start the Program:
