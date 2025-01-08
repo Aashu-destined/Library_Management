@@ -1,4 +1,4 @@
-📚 Library Management System
+## 📚 Library Management System
 Effortlessly manage your library's collection and streamline book tracking with the Library Management System.
 A simple yet powerful Python-based project designed to manage book collections dynamically. Perfect for small libraries, personal collections, or educational purposes.
 
