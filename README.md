@@ -4,7 +4,7 @@ A simple yet powerful Python-based project designed to manage book collections d
 
 ---
 
-##⚡ Quick Overview
+## ⚡ Quick Overview
 Add Books: Seamlessly add new books to your collection.
 View Available Books: List all the books currently in the library.
 Interactive CLI: A user-friendly command-line interface for easy navigation.
@@ -47,8 +47,9 @@ Example Session:
     Do you want to continue? (yes/no): no
     Exiting the Library Management System. Goodbye!
     
+---
 
-##🛠️ Getting Started
+## 🛠️ Getting Started
 Prerequisites
 Python 3.x installed on your system.
 Basic knowledge of Python (optional).
